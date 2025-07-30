@@ -1,0 +1,38 @@
+
+    
+        body {
+            background: linear-gradient(135deg, #e0e7ff 0%, #f8fafc 100%);
+            min-height: 100vh;
+        }
+        .container {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.10);
+            padding: 2.5rem 2rem;
+            margin-top: 40px;
+            max-width: 600px;
+        }
+        h2 {
+            font-weight: 700;
+            color: #2d3a4b;
+        }
+        .input-group .form-control {
+            border-radius: 8px 0 0 8px;
+        }
+        .input-group .btn {
+            border-radius: 0 8px 8px 0;
+        }
+        table.table {
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        th, td {
+            vertical-align: middle !important;
+        }
+        th {
+            background: #e9ecef !important;
+        }
+        td {
+            background: #f9fafb;
+        }
+    

@@ -1,0 +1,6 @@
+flask
+pandas
+sentence-transformers
+scikit-learn
+deep-translator
+fuzzywuzzy[speedup]
