@@ -5,3 +5,4 @@ scikit-learn
 deep-translator
 fuzzywuzzy[speedup]
 gunicorn
+langdetect
